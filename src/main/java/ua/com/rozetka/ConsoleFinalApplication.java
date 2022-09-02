@@ -1,7 +1,7 @@
 package ua.com.rozetka;
 
-public class ConsoleApplication {
+public class ConsoleFinalApplication {
     public static void main(String[] args) {
-
+        System.out.println("Start");
     }
 }
